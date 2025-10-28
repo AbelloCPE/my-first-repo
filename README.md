@@ -1,2 +1,2 @@
 # my-first-repo
-git add > git commit > git push
+git add file name > git commit -m "description" > git push origin main
